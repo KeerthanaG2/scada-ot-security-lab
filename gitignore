@@ -1,0 +1,8 @@
+# Suricata writes logs here while the lab runs
+suricata/logs/
+
+# Windows / editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
+__pycache__/

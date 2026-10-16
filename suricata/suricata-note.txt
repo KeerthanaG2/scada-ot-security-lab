@@ -1,0 +1,2 @@
+If Suricata does not load local.rules, add "local.rules" under rule-files in /etc/suricata/suricata.yaml
+(docker exec -it ids vi /etc/suricata/suricata.yaml) then docker restart ids.
