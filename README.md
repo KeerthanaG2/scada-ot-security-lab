@@ -2,7 +2,6 @@
 
 A small, self-contained lab that shows why industrial control protocols are risky, how to detect an attack on them, and how to block it. Everything runs in Docker on one laptop, using free and open-source tools.
 
-**Author:** Keerthana Sai Gazula
 **Stack:** Docker, OpenPLC, Modbus TCP, pymodbus, Suricata IDS, iptables
 
 > For learning only. Run it on an isolated local network. The default OpenPLC login (`openplc` / `openplc`) is used on purpose for the lab and must never be used on a real system.
